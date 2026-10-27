@@ -1,0 +1,12 @@
+{
+  "experiment": "lobo",
+  "official_seeds": [42, 123, 2024, 2025, 3407],
+  "basin_data": {
+    "Andunhe": "SET_LOCAL_AUTHORIZED_CSV_PATH",
+    "Mixishui": "SET_LOCAL_AUTHORIZED_CSV_PATH",
+    "Chuantanghe": "SET_LOCAL_AUTHORIZED_CSV_PATH",
+    "Qiuxiangjiang": "SET_LOCAL_AUTHORIZED_CSV_PATH",
+    "Pengzhaihe": "SET_LOCAL_AUTHORIZED_CSV_PATH",
+    "Zengjiang": "SET_LOCAL_AUTHORIZED_CSV_PATH"
+  }
+}

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository. A related paper citation and archival DOI will be added when available."
+title: "PS-FiLM-TCN: Source-constrained FiLM modulation for zero-shot cross-catchment streamflow prediction"
+authors:
+  - family-names: "Deng"
+    given-names: "Kai"
+  - family-names: "Zhou"
+    given-names: "Haolan"
+  - family-names: "Hong"
+    given-names: "Sheng"
+type: software
+license: MIT
+repository-code: "https://github.com/DK1028225/psfilm-tcn-zero-shot-streamflow-code"

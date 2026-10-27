@@ -1,0 +1,11 @@
+# Stage2E5 draft snapshot from the validated local replay environment (2026-10-20).
+# This is a recorded environment, not a fresh-install compatibility guarantee.
+# CUDA-specific PyTorch wheel selection is platform-dependent: see docs/REPRODUCIBILITY_AND_SETUP.md.
+torch==2.4.1
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.8.0
+scipy==1.16.3
+matplotlib==3.10.8
+PyYAML==6.0.3
+pytest==9.0.2

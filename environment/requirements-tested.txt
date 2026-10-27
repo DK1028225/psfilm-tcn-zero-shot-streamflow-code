@@ -1,0 +1,5 @@
+# Exact versions observed in the manuscript test environment.
+# PyTorch with CUDA 12.1 should be installed separately; see README.md.
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.8.0

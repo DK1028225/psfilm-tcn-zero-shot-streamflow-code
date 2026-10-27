@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.conda/
+
+# Restricted data and model artifacts
+/data/
+/checkpoints/
+/outputs/
+/runs/
+artifacts/
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.pkl
+*.pickle
+*.joblib
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+.secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+
+# Local machine / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# BEGIN STAGE2E5_LOCAL_ONLY_PROTECTION
+# Additional exclusions for local authorized inputs and audit outputs.
+# This does not remove previously tracked or previously committed files.
+/local_only/
+/private/
+/private_data/
+/data/private/
+/results/private/
+/results/local_only/
+/outputs/private/
+/configs/authorized_data_manifest.json
+/configs/authorized_data_manifest.local.json
+/**/authorized_data_manifest.local.json
+/**/local_experiment.json
+/**/experiment_local.json
+/**/experiment_results.local.json
+# END STAGE2E5_LOCAL_ONLY_PROTECTION
