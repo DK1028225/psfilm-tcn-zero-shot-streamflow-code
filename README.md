@@ -1,5 +1,8 @@
 # PS-FiLM-TCN: source-constrained FiLM modulation for zero-shot streamflow prediction
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23686222.svg)](https://doi.org/10.5281/zenodo.23686222)
+
 Reference **code-only** implementation accompanying the manuscript
 *Source-constrained FiLM modulation for zero-shot cross-catchment streamflow prediction*.
 
