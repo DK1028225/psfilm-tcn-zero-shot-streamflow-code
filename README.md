@@ -54,16 +54,18 @@ specified v2 numerical comparison policy; one extreme Zengjiang Raw-FiLM dry
 NSE case was a separately reviewed exception, not a strict match. Details are
 in `docs/STAGE2E4_REPLAY_EVIDENCE_STATUS.md`.
 
+
 ## Data rights and citation
 
-Observational data and trained weights are excluded. Access to original
-observations is subject to data-provider permission.
+Observational data and trained weights are excluded. Access to original observations is subject to data-provider permission.
 
-**License and citation:** this code is provided under the MIT License (see
-`LICENSE`). Software authors and the preferred citation are recorded in
-`CITATION.cff`. A Zenodo DOI will be added after an archival release.
+**License and citation:** This software is distributed under the [MIT License](LICENSE). Software authorship and citation metadata are provided in [CITATION.cff](CITATION.cff).
 
-**Reproducibility boundary:** this repository distributes code only. The
-restricted hydrometeorological data, trained checkpoints, saved predictions,
-and result CSVs are not included; their absence prevents independent numerical
-reproduction of the paper's reported catchment scores.
+**Archived software release (v1.0.0):**
+https://doi.org/10.5281/zenodo.23686223
+
+**Project DOI (all versions):**
+https://doi.org/10.5281/zenodo.23686222
+
+**Reproducibility boundary:** This repository contains code only. Restricted hydrometeorological observations, trained checkpoints, saved predictions, and manuscript result tables are not included. Reproduction of the reported catchment-level numerical results requires authorized access to the underlying data and experimental artifacts.
+
